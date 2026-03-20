@@ -10,7 +10,7 @@
     "test": "ng test",
     "serve:ssr:app_hello_my_friend_angular": "node dist/app_hello_my_friend_angular/server/server.mjs",
     "predeploy": "npm run build", 
-    "deploy": "gh-pages -d dist/app_hello_my_freund_angular/browser"
+    "deploy": "gh-pages -d dist/app_hello_my_friend_angular/browser"
   },
   "private": true,
   "packageManager": "npm@11.9.0",
